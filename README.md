@@ -25,5 +25,10 @@ This is my first hands-on data project. As a student, I wanted to go beyond theo
 * 🔗 [View Project Repository](https://github.com/adisaadon17/F1-PitStop-Strategy-Analysis)
 
 **ם
-**[Assignment1-OOP](https://github.com/adisaadon17/Assignment1-OOP)** 
-- A small academic task implementing fundamental Object-Oriented Programming concepts (Encapsulation, Inheritance, and Polymorphism) using Python.
+### 🐍 Python OOP Fundamentals
+
+This is an academic project focused on the core pillars of Object-Oriented Programming.
+
+* **What I did:** Implemented Encapsulation, Inheritance, and Polymorphism through practical scenarios like an Invoice management system and financial securities.
+* **Goal:** To practice building structured, modular, and reusable code in Python.
+* 🔗 **[View Project Repository](https://github.com/adisaadon17/Assignment1-OOP)**
