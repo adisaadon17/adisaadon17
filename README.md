@@ -24,6 +24,5 @@ This is my first hands-on data project. As a student, I wanted to go beyond theo
 * **Goal:** To practice the full process of data analysis - from raw data to visual insights.
 * 🔗 [View Project Repository](https://github.com/adisaadon17/F1-PitStop-Strategy-Analysis)
 
-**OOP**
 **ם
-* **[Assignment1-OOP](https://github.com/adisaadon17/Assignment1-OOP)** - A small academic task implementing fundamental Object-Oriented Programming concepts (Encapsulation, Inheritance, and Polymorphism) using Python.
+**[Assignment1-OOP](https://github.com/adisaadon17/Assignment1-OOP)** - A small academic task implementing fundamental Object-Oriented Programming concepts (Encapsulation, Inheritance, and Polymorphism) using Python.
