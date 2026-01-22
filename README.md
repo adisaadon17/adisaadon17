@@ -20,5 +20,5 @@ Information systems and business management student, with experience in SQL, Pyt
 
 This is my first hands-on data project. As a student, I wanted to go beyond theory and experience working with real-world data from **Kaggle**.
 * **What I did:** I mainly used **SQL** to query and organize the data, and **Power BI** to build interactive dashboards. I also added a bit of **Python** for specific statistical checks.
-* **Goal:** To practice the full process of data analysis – from raw data to visual insights.
+* **Goal:** To practice the full process of data analysis - from raw data to visual insights.
 * 🔗 [View Project Repository](https://github.com/adisaadon17/F1-PitStop-Strategy-Analysis)
