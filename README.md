@@ -2,7 +2,8 @@
 <h3 align="center">Aspiring Data & BI Analyst | Information Systems Management Student</h3>
 
 ## About Me
-Information systems and business management student, with experience in SQL, Python, data analysis and data-driven projects. Experienced in team leadership and project execution. Highly motivated and data driven individual currently seeking part-time opportunities in the tech field.
+Information Systems & Business Management student building my path into Data Analytics.
+I am focused on applying my academic knowledge to real-world data projects to build practical expertise. I am highly motivated to learn and eager to bring my skills in **SQL, Power BI, and Python** to a part-time or internship role.
 
 ## 🛠 Tech Stack
 
